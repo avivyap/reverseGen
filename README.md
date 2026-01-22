@@ -35,7 +35,8 @@ Ejecutamos el script
 
 #Output
 
-Asi es como se representan las diferentes reverse shells dependiendo del lenguaje que elijas 
+Asi es como se representan las diferentes reverse shells dependiendo del lenguaje que elijas
+
 <img width="1371" height="461" alt="image" src="https://github.com/user-attachments/assets/677722b8-1da6-4fae-8b15-f9c104d90878" />
 
 
