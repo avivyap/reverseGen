@@ -9,6 +9,10 @@ Este script en Bash te permite obtener una reverse shell customizada con la ip y
 - Cuenta con un panel de ayuda:
 <img width="1139" height="483" alt="image" src="https://github.com/user-attachments/assets/4eea2c50-26d4-4456-a7db-ff5652805210" />
 
+#Lenguajes contemplados
+
+
+
 # Instalación:
 
 Clonamos el repositorio
@@ -28,3 +32,10 @@ Ejecutamos el script
   ./reverse -l lenguaje -i ip_objetivo -p puerto
   ./reverse -l bash -i 192.168.1.1 -p 1212
 ```
+
+#Output
+
+Asi es como se representan las diferentes reverse shells dependiendo del lenguaje que elijas 
+<img width="1371" height="461" alt="image" src="https://github.com/user-attachments/assets/677722b8-1da6-4fae-8b15-f9c104d90878" />
+
+
